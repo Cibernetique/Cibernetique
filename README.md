@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Cibernetique
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on private projects
 
 <!---
 Cibernetique/Cibernetique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
